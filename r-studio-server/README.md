@@ -11,9 +11,15 @@ The R Studio Server is up on 18787 port, so open http://your ip address:18787 .
 There you are going to see the sign in page.
 The username and password are both "ruser".
 
+Please refer to the following for dockerhub.
+https://hub.docker.com/r/shibui/r-studio-server/
+
+
 For more about R Studio Server, refer to the following websites.
 https://www.rstudio.com/products/rstudio/
+
 https://support.rstudio.com/hc/en-us
+
 https://blog.rstudio.org/
 
 Thanks.
