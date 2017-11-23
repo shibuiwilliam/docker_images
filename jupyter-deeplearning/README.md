@@ -14,7 +14,7 @@ There is no authentication to it, so you can start using the Notebook.
 
 Please refer to this github for the dockerfile.
 
-https://github.com/shibuiwilliam/docker_images/upload
+https://github.com/shibuiwilliam/docker_images/
 
 Refer to the following for Jupyter Notebook.
 
